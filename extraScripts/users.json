@@ -1,0 +1,3 @@
+{"name":"Admin User","email":"admin@example.com","password":"$2a$10$1zBxVQTRZiFQU5JCzzYaseu71t0v8uhiSd8AMA8hGlyE4i.9Deiza","isAdmin":true,"books_borrowed":[]}
+{"name":"John Doe","email":"John@example.com","password":"$2a$10$sa9nvVCJRJ7UYwMLFiW3bevPLsrqXWytIcIfaLPCyMQzFv/UsWEZm","isAdmin":true,"books_borrowed":[]}
+{"name":"Jane Doe","email":"Jane@example.com","password":"$2a$10$ZZ4xGKMZksFr/By.28T1/eR/RMUKlArywye.uID5lyjBBNbJjDSjW","isAdmin":true,"books_borrowed":[]}
